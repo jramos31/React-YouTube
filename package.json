@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple React App to search YouTube Videos",
   "main": "index.js",
-  "repository":"https://github.com/jramos31/React-YouTube",
+  "repository": "https://github.com/jramos31/React-YouTube",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
